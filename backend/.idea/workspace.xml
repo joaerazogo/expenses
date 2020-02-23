@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="857853c8-8937-40f3-81b9-116a8ffddbf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expenses/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XYSNjxPTGpfmK7jQMTXN8ctdlz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857853c8-8937-40f3-81b9-116a8ffddbf1" name="Default Changelist" comment="" />
+      <created>1581221496697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581221496697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure" timestamp="1581221924165">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1581221924165" />
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581221975301">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1581221975301" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581222785558">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1581222785558" />
+  </component>
+</project>
